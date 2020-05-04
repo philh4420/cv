@@ -1,0 +1,26 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1{
+  color: #bb3b0e;
+}
+
+h3{
+  color: #d63447;
+}
+
+hr {
+    border-style: dotted;
+    border-color: grey;
+    overflow: inherit;
+    border-width: 3px;
+    /* text-align: center; */
+    width: 5%;
+
+/* hr { */
+  /* border-style: dotted; */
+  /* border-color: grey; */
+  /* border-width: 3px; */
+  /* width: 5%; */
+}
